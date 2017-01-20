@@ -1,0 +1,69 @@
+.box {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin: 10px;
+}
+
+.squareRow {
+	position: fixed;
+	top: 0;
+}
+
+#box1 {
+	background-color: red;
+}
+
+#box2 {
+	background-color: blue;
+}
+
+#box3 {
+	background-color: gold;
+}
+
+#box4 {
+	background-color: gray;
+}
+
+#box5 {
+	background-color: lightGreen;
+}
+
+.circle {
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	margin: 10px;
+	display: inline-block;
+}
+
+.circleRow {
+	position: fixed;
+	bottom: 0;
+}
+
+#circle1 {
+	background-color: lightBlue;
+}
+
+#circle2 {
+	background-color: salmon;
+}
+
+#circle3 {
+	background-color: purple;
+}
+
+#circle4 {
+	background-color: indigo;
+}
+
+#circle5 {
+	background-color: orange;
+}
+
+#title {
+	position: fixed;
+	bottom: 48%;
+}
